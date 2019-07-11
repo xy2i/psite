@@ -10,4 +10,4 @@ An instance can be found at https://xy2.dev/.
 3. Install the packages: `pipenv install`.
 4. Run gunicorn with the included configs with `gunicorn_django -D -c gunicorn.conf.py`.
 
-That's it!
+All feedback is appreciated : issues and PRs welcome.
